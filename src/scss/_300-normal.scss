@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'PT Root UI';
+    src: local('PT Root UI Light'), local('PTRootUI-Light'),
+    url('../../fonts/pt-root-ui-300-normal.woff2') format('woff2'),
+    url('../../fonts/pt-root-ui-300-normal.woff') format('woff'),
+    url('../../fonts/pt-root-ui-300-normal.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
