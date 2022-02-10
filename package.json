@@ -1,0 +1,27 @@
+{
+    "name": "@getscope/npm-webfont-pt-root-ui",
+    "private": true,
+    "version": "1.0.0",
+    "description": "Package to install webfont: PT Root UI.",
+    "keywords": [
+        "getscope",
+        "npm",
+        "webfont",
+        "pt root ui"
+            ],
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "homepage": "https://github.com/getscope/npm-webfont-pt-root-ui",
+    "license": "MIT",
+    "author": {
+        "name": "bu0nq",
+        "email": "hello@bu0nq.ru",
+        "homepage": "https://bu0nq.ru",
+        "role": "Developer"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/getscope/npm-webfont-pt-root-ui.git"
+    }
+}
